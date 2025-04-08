@@ -1,4 +1,6 @@
 {
+  "1CsO+m": "Mute #{hashtag}",
+  "E9wCHB": "Browse posts from @{name} in #{hashtag}",
   "about.blocks": "Moderated servers",
   "about.contact": "Contact:",
   "about.disclaimer": "Mastodon is free, open-source software, and a trademark of Mastodon gGmbH.",
@@ -913,5 +915,6 @@
   "video.skip_forward": "Skip forward",
   "video.unmute": "Unmute",
   "video.volume_down": "Volume down",
-  "video.volume_up": "Volume up"
+  "video.volume_up": "Volume up",
+  "wnVJpk": "Browse posts in #{hashtag}"
 }

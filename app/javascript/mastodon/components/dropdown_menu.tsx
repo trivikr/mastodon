@@ -84,7 +84,7 @@ interface DropdownMenuProps<Item = MenuItem> {
   onItemClick: (e: React.MouseEvent | React.KeyboardEvent) => void;
 }
 
-const DropdownMenu = <Item = MenuItem,>({
+export const DropdownMenu = <Item = MenuItem,>({
   items,
   loading,
   scrollable,
